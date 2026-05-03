@@ -3,7 +3,7 @@
 # HOUDINI EXE CLOUD
 
 ### Cloud Infrastructure • AI Systems • High Performance Computing
-<img src="https://i.ibb.co/60j0QT71/houdini.png" alt="Houdini Banner" width="100%" />
+<img src="https://i.ibb.co/kRBVkjR/houdini-banner.png" alt="Houdini Banner" width="100%" />
 
 </div>
 
