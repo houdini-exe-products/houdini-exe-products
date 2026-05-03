@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://i.ibb.co/60j0QT71/houdini.png" alt="Houdini Banner" width="100%" />
-
 # HOUDINI EXE CLOUD
 
 ### Cloud Infrastructure • AI Systems • High Performance Computing
-
-[Website](https://www.houdini-exe.cloud/) •
-[Products](https://www.houdini-exe.cloud/products)
+<img src="https://i.ibb.co/60j0QT71/houdini.png" alt="Houdini Banner" width="100%" />
 
 </div>
 
