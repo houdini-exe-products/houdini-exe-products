@@ -1,6 +1,6 @@
 <div align="center">
 
-# HOUDINI EXE CLOUD
+# HOUDINI EXE
 
 ### Cloud Infrastructure • AI Solutions • High Performance Systems
 
